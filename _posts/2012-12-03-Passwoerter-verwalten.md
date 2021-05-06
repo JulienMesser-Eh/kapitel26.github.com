@@ -29,6 +29,8 @@ Man muss diesen separat herunterladen: [git-credential-wincred.zip](https://gith
 
 		git config --global credential.helper wincred
 
+Der Credential Helper ist aber bei "Git for Windows" enthalten.
+
 MacOS - Systeme
 ----------------
 
